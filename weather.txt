@@ -1,0 +1,5 @@
+Pythonville,1.87
+Ctown,7.50
+Javaopolis,3.23
+Pascaldale,2.11
+Cobol,4.00
